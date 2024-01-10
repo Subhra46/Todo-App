@@ -34,9 +34,20 @@ This is a simple To-Do List mobile application built using the KivyMD framework.
 ## Contributing
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback and improvements are highly appreciated.
 
-## License
-This To-Do List Mobile Android App is open-source and distributed under the [MIT License](LICENSE).
-
----
-
 **Note**: Ensure that you have the necessary permissions to access and modify SQLite databases on your system. The provided code assumes a basic understanding of Python and KivyMD.
+
+<img width="260" alt="image" src="https://github.com/Subhra46/Todo-App/assets/84471896/85015941-c9bf-4c06-b454-51a58790fde7">
+
+<img width="286" alt="image" src="https://github.com/Subhra46/Todo-App/assets/84471896/69a92230-f3de-4ae7-b494-583d5ffaff1b">
+
+<img width="241" alt="image" src="https://github.com/Subhra46/Todo-App/assets/84471896/95381f83-9332-4c86-86f4-d98bb8f337da">
+
+<img width="193" alt="image" src="https://github.com/Subhra46/Todo-App/assets/84471896/3005d26f-8750-4a5a-9985-1aa4c05d3f2a">
+
+<img width="238" alt="image" src="https://github.com/Subhra46/Todo-App/assets/84471896/ff944656-ada2-4ec3-9604-af6af5926ca6">
+
+##After delete operation
+<img width="232" alt="image" src="https://github.com/Subhra46/Todo-App/assets/84471896/a1d4ccf5-4ad4-4259-96c1-047db4a89966">
+
+
+
