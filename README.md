@@ -1,4 +1,3 @@
-//Description of the Todo App
 # To-Do List Mobile Android App with KivyMD
 
 ## Overview
